@@ -1,0 +1,214 @@
+PaymentRequestId,CustomerID,PaymentAmount,FinTechID,PaymentCategory,SalesChannel,TechnicalChannel,Region
+1023,22,1000,InnerCircleCars,Real Estate,FinTech,API,LATAM
+1024,23,1000,InnerCircleCars,Cars,Other,API,EMEA
+1025,24,1000,InnerCircleCars,Electronics,FinTech,API,JAPAC
+1026,25,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1027,26,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1028,27,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1029,28,1000,InnerCircleCars,Cars,Other,API,EMEA
+1030,29,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1031,30,1000,InnerCircleCars,Electronics,FinTech,API,EMEA
+1032,31,3424,Others,Cars,FinTech,API,EMEA
+1033,32,45456,Others,Real Estate,FinTech,API,EMEA
+1034,33,56464,Others,Cars,Other,API,EMEA
+1035,34,654,Others,Cars,FinTech,API,JAPAC
+1036,35,645,Others,Cars,FinTech,API,EMEA
+1037,36,54645,Others,Cars,FinTech,API,EMEA
+1038,37,566,Others,Real Estate,FinTech,API,LATAM
+1039,38,6567,Others,Cars,Other,API,EMEA
+1040,39,7667,Others,Electronics,FinTech,API,JAPAC
+1041,40,7645,Others,Cars,FinTech,API,EMEA
+1042,41,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1043,42,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1044,43,1000,InnerCircleCars,Cars,Other,API,EMEA
+1045,44,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1046,45,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1047,46,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1048,47,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1049,48,1000,InnerCircleCars,Cars,Other,API,EMEA
+1050,49,1000,InnerCircleCars,Electronics,FinTech,API,JAPAC
+1051,50,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1052,1,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+1053,2,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1054,3,1000,InnerCircleCars,Cars,Other,API,EMEA
+1055,4,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1056,5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1057,6,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1058,7,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1059,8,1000,InnerCircleCars,Cars,Other,API,EMEA
+1060,9,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1061,10,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1062,11,3424,Others,Cars,FinTech,API,EMEA
+1063,12,45456,Others,Real Estate,FinTech,API,EMEA
+1064,13,56464,Others,Cars,Other,API,EMEA
+1065,14,654,Others,Electronics,FinTech,API,JAPAC
+1066,15,645,Others,Cars,FinTech,API,EMEA
+1067,16,54645,Others,Cars,FinTech,API,EMEA
+1068,17,566,Others,Real Estate,FinTech,API,EMEA
+1069,18,6567,Others,Cars,Other,API,EMEA
+1070,19,7667,Others,Cars,FinTech,API,JAPAC
+1071,20,7645,Others,Cars,FinTech,API,EMEA
+1072,21,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1073,22,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1074,23,1000,InnerCircleCars,Cars,Other,API,EMEA
+1075,24,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1076,25,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1077,26,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1078,27,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1079,28,1000,InnerCircleCars,Cars,Other,API,EMEA
+1080,29,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1081,30,1000,InnerCircleCars,Electronics,FinTech,API,EMEA
+1082,31,3424,Others,Cars,FinTech,API,EMEA
+1083,32,45456,Others,Real Estate,FinTech,API,EMEA
+1084,33,56464,Others,Cars,Other,API,EMEA
+1085,34,654,Others,Cars,FinTech,API,JAPAC
+1086,35,645,Others,Cars,FinTech,API,EMEA
+1087,36,54645,Others,Cars,FinTech,API,LATAM
+1088,37,566,Others,Real Estate,FinTech,API,EMEA
+1089,38,6567,Others,Cars,Other,API,EMEA
+1090,39,7667,Others,Cars,FinTech,API,JAPAC
+1091,40,7645,Others,Cars,FinTech,API,EMEA
+1092,41,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1093,42,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1094,43,1000,InnerCircleCars,Cars,Other,API,EMEA
+1095,44,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1096,45,1000,InnerCircleCars,Electronics,FinTech,API,EMEA
+1097,46,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1098,47,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1099,48,1000,InnerCircleCars,Cars,Other,API,EMEA
+1100,49,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1101,50,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+1102,1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1103,2,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1104,3,1000,InnerCircleCars,Cars,Other,API,EMEA
+1105,4,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1106,5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1107,6,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1108,7,1000,InnerCircleCars,Real Estate,FinTech,API,LATAM
+1109,8,1000,InnerCircleCars,Cars,Other,API,EMEA
+1110,9,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1111,10,1000,InnerCircleCars,Electronics,FinTech,API,EMEA
+1112,11,3424,Others,Cars,FinTech,API,EMEA
+1113,12,45456,Others,Real Estate,FinTech,API,LATAM
+1114,13,56464,Others,Cars,Other,API,EMEA
+1115,14,654,Others,Cars,FinTech,API,JAPAC
+1116,15,645,Others,Cars,FinTech,API,EMEA
+1117,16,54645,Others,Cars,FinTech,API,EMEA
+1118,17,566,Others,Real Estate,FinTech,API,EMEA
+1119,18,6567,Others,Cars,Other,API,EMEA
+1120,19,7667,Others,Cars,FinTech,API,JAPAC
+1121,20,7645,Others,Cars,FinTech,API,EMEA
+1122,21,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1123,22,1000,InnerCircleCars,Real Estate,FinTech,API,LATAM
+1124,23,1000,InnerCircleCars,Cars,Other,API,EMEA
+1125,24,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1126,25,1000,InnerCircleCars,Electronics,FinTech,API,EMEA
+1127,26,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1128,27,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1129,28,1000,InnerCircleCars,Cars,Other,API,EMEA
+1130,29,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1131,30,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1132,31,3424,Others,Cars,FinTech,API,EMEA
+1133,32,45456,Others,Real Estate,FinTech,API,EMEA
+1134,33,56464,Others,Cars,Other,API,EMEA
+1135,34,654,Others,Cars,FinTech,API,JAPAC
+1136,35,645,Others,Cars,FinTech,API,EMEA
+1137,36,54645,Others,Cars,FinTech,API,EMEA
+1138,37,566,Others,Real Estate,FinTech,API,LATAM
+1139,38,6567,Others,Cars,Other,API,EMEA
+1140,39,7667,Others,Cars,FinTech,API,JAPAC
+1141,40,7645,Others,Electronics,FinTech,API,EMEA
+1142,41,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1143,42,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1144,43,1000,InnerCircleCars,Cars,Other,API,EMEA
+1145,44,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1146,45,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1147,46,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1148,47,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1149,48,1000,InnerCircleCars,Cars,Other,API,EMEA
+1150,49,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1151,50,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1152,1,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+1153,2,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1154,3,1000,InnerCircleCars,Cars,Other,API,EMEA
+1155,4,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1156,5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1157,6,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1158,7,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1159,8,1000,InnerCircleCars,Cars,Other,API,EMEA
+1160,9,1000,InnerCircleCars,Electronics,FinTech,API,JAPAC
+1161,10,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1162,11,3424,Others,Cars,FinTech,API,EMEA
+1163,12,45456,Others,Real Estate,FinTech,API,EMEA
+1164,13,56464,Others,Cars,Other,API,EMEA
+1165,14,654,Others,Cars,FinTech,API,JAPAC
+1166,15,645,Others,Cars,FinTech,API,EMEA
+1167,16,54645,Others,Cars,FinTech,API,EMEA
+1168,17,566,Others,Real Estate,FinTech,API,EMEA
+1169,18,6567,Others,Cars,Other,API,EMEA
+1170,19,7667,Others,Cars,FinTech,API,JAPAC
+1171,20,7645,Others,Cars,FinTech,API,EMEA
+1172,21,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1173,22,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1174,23,1000,InnerCircleCars,Cars,Other,API,EMEA
+1175,24,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1176,25,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1177,26,1000,InnerCircleCars,Electronics,FinTech,API,EMEA
+1178,27,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1179,28,1000,InnerCircleCars,Cars,Other,API,EMEA
+1180,29,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1181,30,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1182,31,3424,Others,Cars,FinTech,API,EMEA
+1183,32,45456,Others,Real Estate,FinTech,API,EMEA
+1184,33,56464,Others,Cars,Other,API,EMEA
+1185,34,654,Others,Cars,FinTech,API,JAPAC
+1186,35,645,Others,Cars,FinTech,API,EMEA
+1187,36,54645,Others,Cars,FinTech,API,LATAM
+1188,37,566,Others,Real Estate,FinTech,API,EMEA
+1189,38,6567,Others,Cars,Other,API,EMEA
+1190,39,7667,Others,Cars,FinTech,API,JAPAC
+1191,40,7645,Others,Cars,FinTech,API,EMEA
+1192,41,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1193,42,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1194,43,1000,InnerCircleCars,Cars,Other,API,EMEA
+1195,44,1000,InnerCircleCars,Electronics,FinTech,API,JAPAC
+1196,45,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1197,46,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1198,47,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1199,48,1000,InnerCircleCars,Cars,Other,API,EMEA
+1200,49,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1201,50,1000,InnerCircleCars,Cars,FinTech,API,LATAM
+1202,1,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1203,2,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1204,3,1000,InnerCircleCars,Cars,Other,API,EMEA
+1205,4,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1206,5,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1207,6,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1208,7,1000,InnerCircleCars,Real Estate,FinTech,API,LATAM
+1209,8,1000,InnerCircleCars,Cars,Other,API,EMEA
+1210,9,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1211,10,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1212,11,3424,Others,Cars,FinTech,API,EMEA
+1213,12,45456,Others,Real Estate,FinTech,API,LATAM
+1214,13,56464,Others,Cars,Other,API,EMEA
+1215,14,654,Others,Cars,FinTech,API,JAPAC
+1216,15,645,Others,Electronics,FinTech,API,EMEA
+1217,16,54645,Others,Cars,FinTech,API,EMEA
+1218,17,566,Others,Real Estate,FinTech,API,EMEA
+1219,18,6567,Others,Cars,Other,API,EMEA
+1220,19,7667,Others,Cars,FinTech,API,JAPAC
+1221,20,7645,Others,Cars,FinTech,API,EMEA
+1222,21,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1223,22,1000,InnerCircleCars,Real Estate,FinTech,API,LATAM
+1224,23,1000,InnerCircleCars,Cars,Other,API,EMEA
+1225,24,1000,InnerCircleCars,Electronics,FinTech,API,JAPAC
+1226,25,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1227,26,1000,InnerCircleCars,Cars,FinTech,API,EMEA
+1228,27,1000,InnerCircleCars,Real Estate,FinTech,API,EMEA
+1229,28,1000,InnerCircleCars,Cars,Other,API,EMEA
+1230,29,1000,InnerCircleCars,Cars,FinTech,API,JAPAC
+1231,30,1000,InnerCircleCars,Electronics,FinTech,API,EMEA
+1232,31,3424,Others,Cars,FinTech,API,EMEA
+1233,32,45456,Others,Real Estate,FinTech,API,EMEA
+1234,33,56464,Others,Cars,Other,API,EMEA
+1235,34,654,Others,Cars,FinTech,API,JAPAC
